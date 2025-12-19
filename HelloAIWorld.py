@@ -1,0 +1,12 @@
+print('Hello AI world ')
+print('What is your name ? ')
+myName= input()
+print(f'Well, nice to meet you {myName}')
+print('Enter your age? ')
+myAge= int(input())
+print(f'You are going older day by day my buoi, you are now {myAge} years old.')
+print('What do you want to invest your life into? ')
+myLife= input()
+print(f' Well keep using me in daily basis, you will be soon {myLife}')
+if myLife:
+    print('Keep grinding!! ')
