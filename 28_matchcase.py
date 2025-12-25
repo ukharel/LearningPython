@@ -10,3 +10,4 @@ def holiday(day):
             return "It is not holiday. "
 
 print(holiday("Sunday"))
+
